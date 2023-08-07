@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emirkoseoluu
-- 👀 I’m interested in backend devoloper
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning Python
 -.
 
 <!---
